@@ -1,0 +1,20 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  /* background: #6b6b69; */
+  background-image: url("https://png.pngtree.com/background/20210710/original/pngtree-fashion-movie-film-theme-background-poster-picture-image_1060677.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+footer {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+}
